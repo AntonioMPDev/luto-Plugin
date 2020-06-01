@@ -1,0 +1,9 @@
+.luto-container{
+	position:fixed;
+	top:7em;
+	left: 1em;
+	z-index:999;
+	cursor: move;
+  background: rgba(255,255,255,0.5);
+    border-radius: 50%;
+}
